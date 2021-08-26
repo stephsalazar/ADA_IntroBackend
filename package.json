@@ -1,0 +1,19 @@
+{
+  "name": "intronode",
+  "version": "1.0.0",
+  "description": "Intro de Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "introduccion"
+  ],
+  "author": "any_stephy",
+  "license": "ISC",
+  "dependencies": {
+    "color-rgba": "^2.2.3"
+  }
+}
